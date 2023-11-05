@@ -6,6 +6,9 @@ Many students in schools and universities lack awareness about their legal right
 ## Proposed Solution
 We aim to address this critical issue with our project, the Legal Education Game. Our solution involves creating an interactive educational game that immerses users in scenarios and quizzes related to legal rights and responsibilities. To motivate consistent learning and progression, we'll incorporate a rewards system within the game. We also place a strong emphasis on user-friendliness to ensure an engaging learning experience.
 
+### VIDEO LINK: 
+https://youtu.be/Q4RlwajV_Zk
+
 ### Product Brief:
 **Product Name**: Law-fy
 **Version**: 1.0
