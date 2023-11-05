@@ -25,9 +25,13 @@ https://youtu.be/Q4RlwajV_Zk
 Our primary focus is on school and university students, as well as adults in rural and urban areas who lack awareness of their legal rights.
 
 ### TEAM MEMBER DETAILS
+
 => Prithvee Ojha(Team Leader) - ojhaprithvee@gmail.com 
+
 => Pratyush Mathur            - pratyushmathur2004@gmail.com
+
 => Vasundhara Pandey          - pandeyvasu152428@gmail.com
+
 => Kirti Chauhan              - thekirtichauhan@outlook.com
 
 ### POWER POINT PRESENTATION
