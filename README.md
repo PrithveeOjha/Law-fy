@@ -1,4 +1,4 @@
-# Law-fy
+# Law-fy (a working PC game has been attatched with the game, download the Test 1.0 file to play it.)
 
 ## Problem Statement
 Many students in schools and universities lack awareness about their legal rights, primarily because these topics are inadequately covered in the curriculum. This knowledge gap is even more pronounced in rural areas, where approximately 70% of residents are illiterate, and awareness of legal rights is limited. Existing awareness campaigns have proven ineffective, often due to a lack of interest and interactivity among students.
