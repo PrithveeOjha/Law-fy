@@ -30,7 +30,16 @@ Our primary focus is on school and university students, as well as adults in rur
 ### POWER POINT PRESENTATION
 *Link* - https://1drv.ms/p/s!AsS_hoEyracYiMsi4vT5mS7kLdDOyg?e=5q3mxR&nav=eyJzSWQiOjI1Nn0
 
+### PPT Slides ###
 
+![1](./Law-Fy/1.png)
+![2](./Law-Fy/2.png)
+![3](./Law-Fy/3.png)
+![4](./Law-Fy/4.png)
+![5](./Law-Fy/5.png)
+![6](./Law-Fy/6.png)
+![7](./Law-Fy/7.png)
+![8](./Law-Fy/8.png)
 
 
 ## License
